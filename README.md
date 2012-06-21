@@ -1,4 +1,0 @@
-MosterBook
-==========
-
-Proyecto MosterBook
